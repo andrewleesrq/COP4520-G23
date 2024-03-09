@@ -1,4 +1,7 @@
 # Parallel CNN Training
+## Compile Instructions
+Since our project is a Python notebook, you can compile and run it in Google Colab. When viewing the file, there is an option to "Run in Google Colab".
+
 ## Abstract
 Training complex models can take a significant amount of time. The purpose of our study is to train a convolutional neural network (CNN) using parallelization to reduce training time. We also train a separate CNN sequentially and compare the training time and accuracy of both models. 
 
